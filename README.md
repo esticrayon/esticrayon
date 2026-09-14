@@ -9,16 +9,16 @@
 
 <div align="center">
 
-<a href="[LINK_GUNS](https://guns.lol/deneuve)">
+<a href="https://guns.lol/deneuve">
 <img src="https://img.shields.io/badge/GUNS-a5b7bd?style=for-the-badge&logoColor=ffffff">
 </a>
 
-<a href="[[LINK_ATABOOK](https://m4rhynoen.atabook.org/)]">
+<a href="https://m4rhynoen.atabook.org/">
 <img src="https://img.shields.io/badge/ATABOOK-bd6f77?style=for-the-badge&logoColor=ffffff">
 </a>
 
-<a href="[LINK_ATABOOK](https://www.instagram.com/tee.nb0i/)">
-<img src="https://img.shields.io/badge/INS-9CA3AF?style=for-the-badge&logoColor=ffffff">
+<a href="https://www.instagram.com/tee.nb0i/">
+<img src="https://img.shields.io/badge/INS-9CA3AF?style=for-the-badge&logoColor=000000">
 </a>
 
 </div>
