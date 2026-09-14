@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GUNS-a5b7bd?style=for-the-badge&logoColor=ffffff">
 </a>
 
-<a href="[LINK_ATABOOK](https://dyofzrw.atabook.org/)">
+<a href="[[LINK_ATABOOK](https://m4rhynoen.atabook.org/)]">
 <img src="https://img.shields.io/badge/ATABOOK-bd6f77?style=for-the-badge&logoColor=ffffff">
 </a>
 
