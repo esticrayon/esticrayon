@@ -22,7 +22,7 @@
 </a>
 
 <a href="[https://zyo.lol/eomsean]">
-<img src="https://img.shields.io/badge/ZYO-d8cfe4?style=for-the-badge&logoColor=ffffff">
+<img src="https://img.shields.io/badge/ZYO-e9d7d6?style=for-the-badge&logoColor=ffffff">
 </a>
 
 </div>
