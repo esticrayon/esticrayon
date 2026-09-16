@@ -21,4 +21,9 @@
 <img src="https://img.shields.io/badge/INS-9CA3AF?style=for-the-badge&logoColor=000000">
 </a>
 
+<a href="[https://zyo.lol/eomsean]">
+<img src="https://img.shields.io/badge/ZYO-d8cfe4?style=for-the-badge&logoColor=ffffff">
+</a>
+
 </div>
+
