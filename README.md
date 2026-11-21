@@ -1,11 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=esticrayon&label=･+༝+･&style=plastic&color=85605c&base=6500" width="100">
 
-<img width="500" height="282" alt="Suzuya" src="https://github.com/user-attachments/assets/7ecd31e0-2416-46f3-81c0-571b8b096dd8" />
-
+<img width="634" height="472" alt="ouran001" src="https://github.com/user-attachments/assets/356c28ae-7fbd-4c5f-9073-e874021d2c92" />
 ----
-<p align="center">
-  <img width="634" height="472" alt="ouran001" src="https://github.com/user-attachments/assets/a5f28e4b-d783-43b5-b6f6-543fa8c7c07a" />
-</p>
 
 <div align="center">
 
